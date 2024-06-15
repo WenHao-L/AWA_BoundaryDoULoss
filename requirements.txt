@@ -1,0 +1,16 @@
+dataclasses
+jsonschema
+numpy
+pydicom
+scikit-image
+scikit-learn
+scipy
+SimpleITK
+tqdm
+torch
+torchvision
+tensorboardX
+einops
+monai
+picai-prep==2.1.2
+picai_eval==1.4.4
